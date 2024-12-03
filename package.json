@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cron": "^3.2.1",
+    "express": "^4.21.1",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.7"
+  }
+}
